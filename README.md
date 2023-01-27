@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deshandgames
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning unity & game releated things
+- 🌱 I’m currently learning game releated things
 
 <!---
 deshandgames/deshandgames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
